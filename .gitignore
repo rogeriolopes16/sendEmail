@@ -1,0 +1,9 @@
+settings/
+.idea/
+venv/
+bkp/
+sendEmailAlgarTech/
+sendEmailNinecon/
+*.bat
+*.txt
+*.csv
